@@ -24,7 +24,7 @@ We are actively working to improve and expand the materials, so please check bac
 
 Thank you for your understanding and patience!
 
-## references:
+## References:
 - [AI Strategy and Governance](https://platform.onlinelearning.upenn.edu/offering/ai-strategy-and-governance-a0Q2E00000MTwrwUAD)
 - [Step-by-Step Guide to Conducting a Successful AI Feasibility Study](https://rtslabs.com/guide-to-conducting-a-successful-ai-feasibility-study)
 - [Andrew Ng’s 5 Step Framework to Plan AI Projects Effectively](https://medium.com/data-science/5-step-framework-to-plan-ai-projects-effectively-de1a1bc958c)
